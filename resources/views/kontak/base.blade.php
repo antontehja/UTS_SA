@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <title>Kontak</title>
+        @yield('head')
+    </head>
+    <body>
+        @yield('body')
+    </body>
+</html>    
